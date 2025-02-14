@@ -1,4 +1,4 @@
-a testing organization
+waf test org
 ============================
 
 testing org
